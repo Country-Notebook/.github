@@ -4,5 +4,5 @@
 <strong>CountryNotebook</strong> is an App consisting of an access toolcain to the structure of the entire project repository, with a default resource group, and <em>Git repos and Issue Tracking tool integrations, Eclipse Orion wed IDE and Delivery Pipeline.</em>
 This copybook is intended to manage the productions of a farm <strong>(main repository).</strong>
 The <strong>production log file</strong> is a group of repositories that contains other sub-repositories that manage the activities of the individual company, through management commits.
-After accessing the CountryNotebook management cloud, you choose, in this case, the Project Repository, which belongs to the gitlab.cloud.ibm path.
+After accessing the CountryNotebook management cloud, you choose, in this case, the Project Repository.
 <h2> <a href ="https://github.com/Country-Notebook/Dashboard"> ACCESS DASHBOARD </a> </h2>
