@@ -10,3 +10,5 @@ After accessing the CountryNotebook management cloud, you choose, in this case, 
 <br>
 <a href="https://marcodadamo.github.io/pages/countrynotebook.html"><b>READ GUIDLINE</b>
 <img src="https://raw.githubusercontent.com/marcodadamo/marcodadamo.github.io/master/immagini/Cultivation%20operations.png"></a>
+<hr>
+<img src="https://github.blog/wp-content/uploads/2025/04/1200x630-Universe_Blog_Banner.jpg?fit=1200%2C630">
