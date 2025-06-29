@@ -6,3 +6,5 @@ This copybook is intended to manage the productions of a farm <strong>(main repo
 The <strong>production log file</strong> is a group of repositories that contains other sub-repositories that manage the activities of the individual company, through management commits.
 After accessing the CountryNotebook management cloud, you choose, in this case, the Project Repository.
 <h2> <a href ="https://github.com/Country-Notebook/Dashboard"> ACCESS DASHBOARD </a> </h2>
+<a href="https://marcodadamo.github.io/pages/countrynotebook.html">READ GUIDLINE
+<img src="https://raw.githubusercontent.com/marcodadamo/marcodadamo.github.io/master/immagini/Cultivation%20operations.png"></a>
