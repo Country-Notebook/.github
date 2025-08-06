@@ -1,5 +1,5 @@
 <img src ="https://raw.githubusercontent.com/Country-Notebook/Immagini/master/CountryNotebook%20Aziende%20Wiki.png">
-<h2> <a href ="https://github.com/Country-Notebook/Dashboard"> ACCESS DASHBOARD </a> </h2>
+<h2> <a href ="https://github.com/Country-Notebook/Dashboard/blob/master/README.md"> ACCESS DASHBOARD </a> </h2>
 <h2> Hi, this project was started in 2020 by Marco D'Adamo. Country Notebook allows you to manage the organizational flows of a farm </h2>
 <h3><font face="calibri">CountryNotebook is a management with production log files.</font></h3>
 <strong>CountryNotebook</strong> is an App consisting of an access toolcain to the structure of the entire project repository, with a default resource group, and <em>Git repos and Issue Tracking tool integrations, Eclipse Orion wed IDE and Delivery Pipeline.</em>
